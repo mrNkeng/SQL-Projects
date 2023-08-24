@@ -9,8 +9,6 @@ This repository hosts SQL scripts designed for a database system that manages vo
 - [Getting Started](#getting-started)
 - [Database Schema](#database-schema)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -52,11 +50,3 @@ The database contains the following tables:
 - To update ballot information, run `update_ballot.sql`.
 - To cast a vote, run `cast_vote.sql`.
 - To delete a voter and their associated records, run `delete_voter.sql`.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
